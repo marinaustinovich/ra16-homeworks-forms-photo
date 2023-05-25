@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/bg8incx92uw5q9d7/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ra16-homeworks-props-listing/branch/main)
 
-deployment: https://marinaustinovich.github.io/ra16-homeworks-props-photo/
+deployment: https://marinaustinovich.github.io/ra16-homeworks-forms-photo/
 
 Менеджер фото
 ===
